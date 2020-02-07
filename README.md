@@ -5,7 +5,12 @@ For this Assistant to access weather you need free API key from the [OWM websie]
 
 To wake up this assistant say "Sam" or "Hi Sam" or "Hey Sam"
 
-**Fatures:**
+## Run
+```
+python main.py
+```
+
+## Fatures
 - Check time in your region
 - Check date
 - Make note in the notepad
@@ -14,7 +19,7 @@ To wake up this assistant say "Sam" or "Hi Sam" or "Hey Sam"
 - Search for weather in different cities
 
 
-**Requirement:**
+## Requirement
 ```
 pip install SpeechRecognition
 pip install pyttsx3
