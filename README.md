@@ -15,6 +15,7 @@ To wake up this assistant say "Sam" or "Hi Sam" or "Hey Sam"
 
 
 **Requirement:**
-`pip install SpeechRecognition
-pip install pyttsx3
-`
+
+`pip install SpeechRecognition`
+`pip install pyttsx3`
+
