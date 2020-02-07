@@ -6,16 +6,16 @@ For this Assistant to access weather you need free API key from the [OWM websie]
 To wake up this assistant say "Sam" or "Hi Sam" or "Hey Sam"
 
 **Fatures:**
-1) Check time in your region
-2) Check date
-3) Make note in the notepad
-4) Open website in browser 
-5) Search something in Google or other search engines
-6) Search for weather in different cities
+- Check time in your region
+- Check date
+- Make note in the notepad
+- Open website in browser 
+- Search something in Google or other search engines
+- Search for weather in different cities
 
 
 **Requirement:**
-
-`pip install SpeechRecognition`
-`pip install pyttsx3`
-
+```
+pip install SpeechRecognition
+pip install pyttsx3
+```
