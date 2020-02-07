@@ -10,7 +10,7 @@ To wake up this assistant say "Sam" or "Hi Sam" or "Hey Sam"
 python main.py
 ```
 
-## Fatures
+## Features
 - Check time in your region
 - Check date
 - Make note in the notepad
