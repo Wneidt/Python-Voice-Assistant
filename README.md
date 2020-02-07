@@ -18,4 +18,11 @@ To wake up this assistant say "Sam" or "Hi Sam" or "Hey Sam"
 ```
 pip install SpeechRecognition
 pip install pyttsx3
+pip install pytz
+pip install subprocess32
+pip install webrunner
+pip install requests
+pip install beautifulsoup4
+pip install bleach
+pip install pyowm
 ```
